@@ -5,23 +5,25 @@ I’ve completed performance test on frequently used API for test App
 
 Test executed for the below mentioned scenario in server 
 
-10 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 4.8 And Total Concurrent API requested: 290.
+10 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 1.33 And Total Concurrent API requested: 80
 
-50 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 24 And Total Concurrent API requested: 1450.
+20 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 2.67 And Total Concurrent API requested: 160.
 
-100 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 48 And Total Concurrent API requested: 2900.
+100 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 13.33 And Total Concurrent API requested: 800.
 
-150 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 49 And Total Concurrent API requested: 4350
+800 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 94.43 And Total Concurrent API requested: 6400
 
-200 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 57 And Total Concurrent API requested: 5800
+1500 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 57 And Total Concurrent API requested: 12000
 
-300 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 101 And Total Concurrent API requested: 8700
+2500 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 168.4 And Total Concurrent API requested: 20000
 
-340 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 88 And Total Concurrent API requested: 9860
+2800 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 261  And Total Concurrent API requested: 22400
 
-- While executed 340 concurrent request, found 1 request got connection timeout and error rate is 0.32%.
+2900 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 282 And Total Concurrent API requested: 23200
 
-Summary: Server can handle almost concurrent 8700  API call with almost zero (0) error rate.
+- While executed 2900 concurrent request, found 1 request got connection timeout and error rate is 0.01%.
+
+Summary: Server can handle almost concurrent 23200  API call with almost zero (0) error rate.
 
 Report :
 
