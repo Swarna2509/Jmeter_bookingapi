@@ -27,3 +27,8 @@ Summary: Server can handle almost concurrent 23200  API call with almost zero (0
 
 Report :
 
+![Screenshot (334)](https://github.com/Swarna2509/Jmeter_bookingapi/assets/72212832/26da3bb2-a37c-4c54-ba6e-6b608d1524f5)
+![Screenshot (335)](https://github.com/Swarna2509/Jmeter_bookingapi/assets/72212832/8cfb78f8-4239-4325-b284-0cfe792d9a2a)
+![Screenshot (336)](https://github.com/Swarna2509/Jmeter_bookingapi/assets/72212832/2575f5a4-0abb-4fa6-b17b-e72c9680a047)
+
+
