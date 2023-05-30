@@ -1,9 +1,9 @@
 # Jmeter_bookingapi
 Dear,
 
-I’ve completed performance test on frequently used API for test App https://restful-booker.herokuapp.com
+I’ve completed performance test on frequently used API for test App (https://restful-booker.herokuapp.com/apidoc/index.html)
 
-Test executed for the below mentioned scenario in server https://restful-booker.herokuapp.com
+Test executed for the below mentioned scenario in server (https://restful-booker.herokuapp.com/apidoc/index.html)
 
 10 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 1.33 And Total Concurrent API requested: 80
 
